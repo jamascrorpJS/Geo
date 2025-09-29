@@ -1,0 +1,15 @@
+{
+  "server": {
+    "host": "http://127.0.0.1",
+    "port": ":8080"
+  },
+  "redis": {
+    "url": "redis",
+    "port": "6379",
+    "ports": [
+      "6379"
+    ],
+    "password": "",
+    "db": 0
+  }
+}
